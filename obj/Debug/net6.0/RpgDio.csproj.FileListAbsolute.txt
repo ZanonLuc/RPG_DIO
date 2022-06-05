@@ -1,0 +1,15 @@
+C:\Users\Home FE15 i3\Desktop\Projeto.net\RpgDio\RpgDio\bin\Debug\net6.0\RpgDio.exe
+C:\Users\Home FE15 i3\Desktop\Projeto.net\RpgDio\RpgDio\bin\Debug\net6.0\RpgDio.deps.json
+C:\Users\Home FE15 i3\Desktop\Projeto.net\RpgDio\RpgDio\bin\Debug\net6.0\RpgDio.runtimeconfig.json
+C:\Users\Home FE15 i3\Desktop\Projeto.net\RpgDio\RpgDio\bin\Debug\net6.0\RpgDio.dll
+C:\Users\Home FE15 i3\Desktop\Projeto.net\RpgDio\RpgDio\bin\Debug\net6.0\RpgDio.pdb
+C:\Users\Home FE15 i3\Desktop\Projeto.net\RpgDio\RpgDio\obj\Debug\net6.0\RpgDio.csproj.AssemblyReference.cache
+C:\Users\Home FE15 i3\Desktop\Projeto.net\RpgDio\RpgDio\obj\Debug\net6.0\RpgDio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home FE15 i3\Desktop\Projeto.net\RpgDio\RpgDio\obj\Debug\net6.0\RpgDio.AssemblyInfoInputs.cache
+C:\Users\Home FE15 i3\Desktop\Projeto.net\RpgDio\RpgDio\obj\Debug\net6.0\RpgDio.AssemblyInfo.cs
+C:\Users\Home FE15 i3\Desktop\Projeto.net\RpgDio\RpgDio\obj\Debug\net6.0\RpgDio.csproj.CoreCompileInputs.cache
+C:\Users\Home FE15 i3\Desktop\Projeto.net\RpgDio\RpgDio\obj\Debug\net6.0\RpgDio.dll
+C:\Users\Home FE15 i3\Desktop\Projeto.net\RpgDio\RpgDio\obj\Debug\net6.0\refint\RpgDio.dll
+C:\Users\Home FE15 i3\Desktop\Projeto.net\RpgDio\RpgDio\obj\Debug\net6.0\RpgDio.pdb
+C:\Users\Home FE15 i3\Desktop\Projeto.net\RpgDio\RpgDio\obj\Debug\net6.0\RpgDio.genruntimeconfig.cache
+C:\Users\Home FE15 i3\Desktop\Projeto.net\RpgDio\RpgDio\obj\Debug\net6.0\ref\RpgDio.dll
